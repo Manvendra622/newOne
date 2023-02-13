@@ -14,3 +14,5 @@ git push -u origin update_logo
 
 gh pr create -b master
 gh pr merge
+
+#Repo URL <https://github.com/Manvendra622/newOne.git>
